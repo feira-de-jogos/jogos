@@ -1,2 +1,3 @@
-# jogos
-Catálogo de jogos
+# Jogos
+
+Documentação em https://github.com/feira-de-jogos/docs.
